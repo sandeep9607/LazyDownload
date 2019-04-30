@@ -5,7 +5,7 @@ This project is post loading of users, json parsing, image loading and caching i
 
 ### Manual Installing
 
-Put LaziImageLoading folder inside your project
+Put LazyImageLoading folder inside your project
 
 
 ## How to use
