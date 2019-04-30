@@ -11,8 +11,8 @@ Put LazyImageLoading folder inside your project
 ## How to use
 To download image and maintain cache
 ```
-ImageView.setImage(with: URL(string: (post!.user?.profileImage!.small)!),
-                    placeholder: #imageLiteral(resourceName: "noImage"),  progress: nil, completion: nil)
+ImageView.setImage(with: URL(string: "image url"),
+                    placeholder: nil,  progress: nil, completion: nil)
 ```
 Here you can also see the progree of image download. completion block to handle something.
 
