@@ -5,7 +5,7 @@ This project is post loading of users, json parsing, image loading and caching i
 
 ### Manual Installing
 
-put LaziImageLoading folter inside your project
+Put LaziImageLoading folder inside your project
 
 
 ## How to use
